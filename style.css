@@ -1,0 +1,33 @@
+body {
+    background-color: #ff0000; /* Beyaz arka plan rengi */
+    font-family: Arial, sans-serif; /* Yazı tipi ayarı */
+    font-size: 20px; /* Yazı boyutu ayarı */
+    line-height: 1.5; /* Satır aralığı ayarı */
+    margin: 0; /* Kenar boşluğu kaldırma */
+    padding: 50px; /* İçeriğin etrafındaki dolgu */
+}
+
+
+header {
+	background-color: #ff6b6b;
+	color: white;
+	text-align: center;
+	padding: 50px 0;
+}
+
+h1 {
+	font-size: 60px;
+	margin: 0;
+}
+
+main {
+	max-width: 800px;
+	margin: 50px auto;
+	padding: 0 20px;
+	line-height: 1.5;
+}
+
+p {
+	font-size: 18px;
+	margin-bottom: 20px;
+}
